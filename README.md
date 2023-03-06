@@ -1,3 +1,5 @@
+# This project was inspired by ahfarmer. First steps in React using components and exported functions
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
